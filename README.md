@@ -1,7 +1,9 @@
 IntroToR
 ========
 
-Files from my NICAR 2014 session Introduction to R for beginners. 
+Someday I hope to do a screencast of this, but meanwhile ....
+
+Here are files from my NICAR 2014 session Introduction to R for beginners, Feb. 28, 2014. 
 
 InstallPackagesNICAR2014.R will install all the add-on packages needed for this session. Note to do the Census data mapping you also need a Census API key -- more details in the IntroToR.R file.
 
@@ -20,4 +22,7 @@ http://bit.ly/RDataTasks
 60+ Resources to Improve Your R Skills
 http://bit.ly/Rresources
 
+
+-- Sharon Machlis, Online Managing Editor, Computerworld
+Twitter: @sharon000
 
